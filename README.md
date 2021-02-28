@@ -6,7 +6,7 @@ Just some boilerplate of a yard mapping react component using google maps with t
 
 This component uses Drawing manager to create and add controlled polygons to a map and calc their area (sq meters). 
 
-You can also edit and clear the controlled polygons
+You can also edit and clear the controlled polygons.
 
 ## To run 
 run `npm install` and `npm run dev`
